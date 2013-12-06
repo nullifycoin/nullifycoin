@@ -1,3 +1,3 @@
-FooCoin (FOO)
+NfyCoin (NFY)
 
 Blah, blah, blah.
