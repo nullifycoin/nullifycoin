@@ -18,3 +18,4 @@ cd src
 
 make -f makefile.unix
 
+../nfycoin-qt
