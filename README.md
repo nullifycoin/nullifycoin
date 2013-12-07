@@ -1,3 +1,3 @@
 NfyCoin (NFY)
 
-Blah, blah, blah.
+This is a research COIN and should not be used for any other purpose.
