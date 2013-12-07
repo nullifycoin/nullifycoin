@@ -14,4 +14,8 @@ qmake-qt4 nfycoin-qt.pro
 
 make
 
+sudo nano ~/.nfycoin/nfycoin.conf
+addnode=162.243.242.178
+ 
 ./nfycoin-qt
+
