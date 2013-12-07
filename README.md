@@ -14,8 +14,4 @@ qmake-qt4 nfycoin-qt.pro
 
 make
 
-cd src
-
-make -f makefile.unix
-
-../nfycoin-qt
+./nfycoin-qt
