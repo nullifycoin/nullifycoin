@@ -19,6 +19,6 @@ sudo nano ~/.nfycoin/nfycoin.conf
 Add this line:
 
 addnode=162.243.242.178
- 
+addnode=184.154.13.230
 ./nfycoin-qt
 
