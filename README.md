@@ -13,8 +13,8 @@ cd nullifycoin
 qmake-qt4 nfycoin-qt.pro
 
 make
-
-sudo nano ~/.nfycoin/nfycoin.conf
+mkdir ~/.nfycoin
+nano ~/.nfycoin/nfycoin.conf
 
 Add this line:
 
