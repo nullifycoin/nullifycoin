@@ -56,7 +56,7 @@ addnode=162.243.242.178
 
 addnode=184.154.13.230
 
-\# Don't attempte to generate litecoins using the wallet
+\# Don't attempte to generate coins using the wallet miner
 
 gen=0
 
