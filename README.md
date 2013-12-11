@@ -64,6 +64,6 @@ gen=0
 
 Install cgminer-3.7.2, reaper, or another mining program
 
-cgminer --scrypt -o localhost:9332 -u mike -p kitties
+cgminer --scrypt -o localhost:9332 -u mike -p kitties -I 13
 
 
