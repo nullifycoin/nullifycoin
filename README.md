@@ -1,4 +1,4 @@
-NfyCoin (NFY)
+#NfyCoin (NFY)
 
 This is a research COIN and should not be used for any other purpose.
 
@@ -48,7 +48,7 @@ rpcport=9332
 
 rpcallowip=127.0.0.1
 
-rpcallowip=192.168.*.*
+rpcallowip=192.168.\*.\*
 
 \# Add these other users to confirm coins you found
 
