@@ -41,7 +41,7 @@ rpcport=9332
 
 rpcallowip=127.0.0.1
 
-rpcallowip=192.168.*.*
+rpcallowip=192.168.\*.\*
 
 addnode=162.243.242.178
 
