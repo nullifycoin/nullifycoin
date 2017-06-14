@@ -33,7 +33,7 @@ rpcallowip=192.168.\*.\*
 # Add these other users to confirm coins you found
 addnode=162.243.242.178
 addnode=184.154.13.230
-# Don't attempte to generate coins using the wallet miner
+# Don't attempt to generate coins using the wallet miner
 gen=0
 EOF
 ```
